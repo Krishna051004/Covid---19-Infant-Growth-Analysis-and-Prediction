@@ -112,4 +112,5 @@ Deploy on cloud platforms for healthcare integration
 
 The full source code (including preprocessing, model training, and Flask app) is included in this repository.
 
-🔗 GitHub: https://github.com/arigasaicharanreddy/Covid---19-Infant-Growth-Analysis-and-Prediction
+🔗 GitHub: https://github.com/Krishna051004/Covid---19-Infant-Growth-Analysis-and-Prediction
+
